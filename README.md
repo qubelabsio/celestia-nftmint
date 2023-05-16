@@ -70,7 +70,7 @@ Once your dApp is deployed, you need to un-pause the NFT contract.
 
 ```
 cd smart-contract
-yarn public-sale-open --network mainnet
+yarn public-sale-open --network truffle
 ```
 
 That's it! Web app is running and you can start minting NFTs.
