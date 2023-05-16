@@ -1,0 +1,14 @@
+{
+  "name": "BsrNft",
+  "description": "An all-in-one solution for ERC721 collections.",
+  "author": "BsrNft",
+  "license": "MIT",
+  "version": "2.4.4",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qubelabsio/BsrNft"
+  },
+  "scripts": {
+    "build-dapp": "cd smart-contract; yarn; yarn compile; cd ../minting-dapp; yarn; yarn build"
+  }
+}
