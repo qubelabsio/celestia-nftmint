@@ -23,7 +23,7 @@ https://github.com/qubelabsio/celestia-nftmint/assets/61059709/f408981d-5db6-4db
 * [Rollkit: Ethermint](https://rollkit.dev/docs/tutorials/ethermint)
 * [Metamask](https://metamask.io/)
 
-## Deploy Celestia light node and Ethermint rollup.
+## Deploy Celestia light node and Ethermint rollup
 * Light node: https://docs.celestia.org/nodes/light-node/
 * Ethermint Rollup: https://rollkit.dev/docs/tutorials/ethermint/
 
