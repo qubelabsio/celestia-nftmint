@@ -13,6 +13,7 @@ Celestia NFT MINT is a web application for minting NFTs on Ethermint rollups dep
 * https://nftmint.qubelabs.io/
 * https://faucet-bsr-celestia.qubelabs.io/
 
+https://github.com/qubelabsio/celestia-nftmint/assets/61059709/f408981d-5db6-4dbb-946c-b39ee03dd4ee
 
 ## Requirements
 * [NodeJS](https://nodejs.org/en)
