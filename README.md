@@ -27,15 +27,13 @@ https://github.com/qubelabsio/celestia-nftmint/assets/61059709/f408981d-5db6-4db
 * Light node: https://docs.celestia.org/nodes/light-node/
 * Ethermint Rollup: https://rollkit.dev/docs/tutorials/ethermint/
 
-In our demo, our rollup network details are:
+In our demo, our  [rollup network](https://celestia-rollup-explorer.bharvest.io/rollups/7fb347980b63b6b8) details are:
 ```
 Network name = "Qubelabs Rollup"
 Netowrk ID = "0x2328"
 RPC URL = "https://rollup-bsr-celestia.qubelabs.io"
 Token = "tEVMOS"
 ```
-* https://celestia-rollup-explorer.bharvest.io/rollups/7fb347980b63b6b8
-
 ## Smart Contract Deployment
 
 ### Configure
