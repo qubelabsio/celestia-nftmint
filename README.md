@@ -76,7 +76,7 @@ name: "Qubelabs Rollup",
 symbol: "tEVMOS",
 decimals: 18,
 ```
-
+### Start the NFT Mint
 Once your dApp is deployed, you need to un-pause the NFT contract.
 
 ```
