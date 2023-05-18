@@ -63,6 +63,19 @@ Now you can deploy the content from `/public` folder on your environment, or use
 ```
 yarn dev-server
 ```
+### Metamask configuration
+In our demo we are using [Qubelabs Rollup](https://celestia-rollup-explorer.bharvest.io/rollups/7fb347980b63b6b8) but if you would like to define your own network to use, you need to edit the following in `minting-dapp/src/scripts/react/Dapp.tsx`
+
+```
+const networkName = "Qubelabs Rollup"; 
+const networkId = "0x2328"; 
+const rpcUrl = "https://rollup-bsr-celestia.qubelabs.io";
+
+nativeCurrency: {
+name: "Qubelabs Rollup",
+symbol: "tEVMOS",
+decimals: 18,
+```
 
 Once your dApp is deployed, you need to un-pause the NFT contract.
 
