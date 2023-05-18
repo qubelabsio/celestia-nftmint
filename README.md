@@ -49,7 +49,7 @@ yarn add -G truffle
 cd smart-contract
 yarn deploy --network truffle
 ```
-You can either use truffle or define your own RPC and private key in `smart-contract/.env`. Both will work.
+You can either use truffle or define your own rollup RPC and private key in `smart-contract/.env`. Both will work.
 
 After deploying the contract, copy new contract address and update `line 29` in `smart-contract/config/CollectionConfig.ts`:
 ```
